@@ -1,4 +1,4 @@
-# (ENGLICH) Reduced Vlasov–Maxwell System Simulation Using Semi-Lagrangian Scheme
+# (ENGLISH) Reduced Vlasov–Maxwell System Simulation Using Semi-Lagrangian Scheme
 
 This repository contains the numerical implementation of reduced Vlasov–Maxwell models in 1D1V and 1D2V configurations, both in the non-relativistic and quasi-relativistic regimes. The simulations are based on semi-Lagrangian schemes, with emphasis on physical fidelity, numerical stability, and computational efficiency.
 
