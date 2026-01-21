@@ -42,7 +42,7 @@ memory/memoria.pdf
 
 ---
 
-# (ESPAÑOL) **README (Versión en Español — Markdown Limpio)**
+# (ESPAÑOL) **README **
 
 # Simulación del Sistema Vlasov–Maxwell Reducido mediante un Esquema Semi-Lagrangiano
 
